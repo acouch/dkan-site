@@ -1,19 +1,18 @@
 ---
 published: true
 layout: post
-author: "Andrew Hoppin"
-title: "Welcome to the new DKAN Community Portal"
+author: Andrew Hoppin
+title: Welcome to the new DKAN Community Portal
 ---
-
-Today, contemporaneous with the launch of the new Granicus, following the recent merger between GovDelivery Inc. and the legacy Granicus Inc., the DKAN team is proud to announce the launch of GetDKAN.com, a new community portal to better support the burgeoning open source DKAN community worldwide.  
+Today, contemporaneous with the launch of [DKAN v1.13](https://github.com/NuCivic/dkan/releases), and shortly after with the launch of the new Granicus (following the recent merger between GovDelivery Inc. and the legacy Granicus Inc.), the DKAN team is proud to announce the launch of GetDKAN.com, a new community portal to better support the burgeoning open source DKAN community worldwide.  
 
 A fully open source project led by Granicus, DKAN is now used by governments in more than [30 countries worldwide](https://github.com/NuCivic/dkan-sites/).
 
 In recognition of this growing end-user and developer community, GetDKAN is your one-stop shop to:
--learn about DKAN's features and capabilities (demos, live site examples, etc.)
--connect with other DKAN users in its global user community (mailing list, Gitter chat, etc.)
--receive free community DKAN support (docs, issue queues, etc.)
--explore commercial support options, including the Granicus Data (DKAN) SaaS service
+* learn about DKAN's features and capabilities (demos, live site examples, etc.)
+* connect with other DKAN users in its global user community (mailing list, Gitter chat, etc.)
+* receive free community DKAN support (docs, issue queues, etc.)
+* explore commercial support options, including the Granicus Data (DKAN) SaaS service
 
 [Contact us](https://getdkan.github.io/dkan-site/contact/) with questions, ideas, and feedback.  Our Granicus team looks forward to hearing from you, and continuing to support you as your peers in the open source DKAN community.
 
