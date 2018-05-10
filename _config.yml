@@ -21,7 +21,7 @@ subtitle: "Open Source Open Data Catalog"
 # root of your server.
 #baseurl: "http://localhost:8888" # the subpath of your site
 #url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
-baseurl: "http://getdkan.com"
+baseurl: "https://acouch.github.io/dkan-site"
 cover: "cover.png"
 logo: "logo.png"
 
@@ -40,7 +40,7 @@ descriptions:
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 prose:
   rooturl: '_posts'
-  siteurl: "http://getdkan.com"
+  siteurl: "https://acouch.github.io/dkan-site"
   media: 'media'
   metadata:
     _posts:
